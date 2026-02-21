@@ -17,6 +17,9 @@ Este paquete empaqueta la arquitectura completa (sensores, perfiles, vector db, 
 - Usa los documentos para refrescar y exportar.
 - Para alimentar un vector, añade la entrada al `vector_index.json` con `embedding` desde tu modelo favorito.
 
+## Documentación teórica
+Puedes consultar `documentation/triangulacion_cognitiva.md` para comprender cómo el Agente combina Contexto Sensorial, Relación Humana y Protocolo de Comunicación antes de responder.
+
 ## Créditos
 Diseñado y construido por **Orión García Sequera** (Ingeniero en Sistemas, responsable técnico) y **Ana Carolina Guerra Rodríguez** (Psicóloga, arquitecta del protocolo humano). Ana aportó el conocimiento emocional y de relación humana; Orión estructuró la arquitectura técnica y las integraciones. Mantén los archivos `documentation/credits.md` y `grid/00-README.md` actualizados con estos nombres para que la autoría viaje con la Skill.
 
