@@ -16,3 +16,6 @@ Este paquete empaqueta la arquitectura completa (sensores, perfiles, vector db, 
 - Fija el `SKILL.md` como guía de comando.
 - Usa los documentos para refrescar y exportar.
 - Para alimentar un vector, añade la entrada al `vector_index.json` con `embedding` desde tu modelo favorito.
+
+## Créditos
+Diseñado y construido por **Orión García Sequera** (Ingeniero en Sistemas) y **Ana Carolina Guerra Rodríguez** (Psicóloga). Ana aportó el conocimiento emocional y de relación humana; Orión estructuró la arquitectura técnica y las integraciones. Mantén los archivos `documentation/credits.md` y `projects/esquema-red-nodos/00-README.md` actualizados con estos nombres para que la autoría viaje con la Skill.
